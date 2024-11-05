@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 xin chao tu master
 =======
 helllo from issue
+>>>>>>> issue
+=======
+helllo issue
 >>>>>>> issue
