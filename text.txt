@@ -1,2 +1,14 @@
+<<<<<<< Updated upstream
 
 xin chao tu master
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+xin chao tu master
+=======
+helllo from issue
+>>>>>>> issue
+=======
+helllo issue
+>>>>>>> issue
+>>>>>>> Stashed changes
